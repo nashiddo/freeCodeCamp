@@ -12,11 +12,11 @@ Although BDD is principally an idea about how software development should be man
 Although these tools are often developed specifically for use in BDD projects, they can be seen as specialized forms of the tooling that supports test-driven development. The tools serve to add automation to the ubiquitous language that is a central theme of BDD.
 
 BDD focuses on:
-- Where to start in the process
-- What to test and what not to test
-- How much to test in one go
-- What to call the tests
-- How to understand why a test fails
+- Where to start in the process?
+- What to test and what not to test?
+- How much to test in one go?
+- What to call the tests?
+- How to understand why a test fails?
 
 At the heart of BDD is a rethinking of the approach to the unit testing and acceptance testing that naturally arise with these issues. 
 For example, BDD suggests that unit test names be whole sentences starting with a conditional verb ("should" in English for example) and should be written in order of business value. 
@@ -49,7 +49,7 @@ And two black garments in stock.
 Along with it are some Benefites:
 
 1. All development work can be traced back directly to business objectives.
-2. Software development meets user need. Satisfied users = good business.
+2. Software development meets user need. Satisfied users equate to business success.
 3. Efficient prioritisation - business-critical features are delivered first.
 4. All parties have a shared understanding of the project and can be involved in the communication.
 5. A shared language ensures everyone (technical or not) has thorough visibility into the project’s progression.
