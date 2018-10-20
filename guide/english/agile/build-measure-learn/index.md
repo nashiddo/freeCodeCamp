@@ -3,12 +3,12 @@ title: Build Measure Learn
 ---
 ## Build Measure Learn
 
-The Build-Measure-Learn loop is a method used to build the right product. Coined in the "Lean Startup" book by Eric Reis, the loop enables rapid experimenting, in the sole purpose of achieving market fit. In other words, it is a powerful system to validate assumptions concerning a product you set out to deliver. Breaking down the loop, it consists of the following parts:
+The Build-Measure-Learn loop is a method used to build the right product. Coined in the "Lean Startup" book by Eric Reis; the loop enables rapid experimenting. For the the sole purpose of achieving market fit. In other words, it is a powerful system to validate assumptions concerning a product you set out to deliver. Breaking down the loop, it consists of the following parts:
 
 ![build-measure-learn-loop](https://steveblank.files.wordpress.com/2015/05/ideas-build-code-measure.jpg)
 
 ### Idea
-Each loop starts with an idea that will supply business value to some users. Such idea must be consisted of a vision for a product - which will direct you at what to build, and a metric that will point out to whether your assumptions about the business value were correct.
+Each loop starts with an idea that will supply business value to some users. Such idea must be consisted of a vision for a product. Which will direct you to what to build. Also a metric that will point out to whether your assumptions about the business value were correct.
 
 ### Build
 To validate your idea, you set out to build a Minimal Viable Product (MVP), combined with predefined metrics (one is preferred), whose purpose is to validate your theory, and help you decide whether you should preserve or pivot.
